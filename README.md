@@ -19,7 +19,7 @@
 - This assessment should be completed using Python.
 
 ## Challenge
-You are writing a computer program for an electronic vending machine to give you the optimal change for an item's cost. Write a method called `optimal_change` that takes in two arguments: `item_cost` and `amount_paid`. The method will `print` a string with optimal change which follows the following convention:
+You are writing a computer program for an electronic vending machine to give you the optimal change for an item's cost. Write a method called `optimal_change` that takes in two arguments: `item_cost` and `amount_paid`. The method should return a string describing the optimal change which follows the following convention:
 
 ```
 optimal_change(62.13, 100)
